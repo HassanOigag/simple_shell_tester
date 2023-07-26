@@ -4,6 +4,8 @@ the program only tests the mandatorty tasks.
 
 how to run and use the program:
 
+firt of all: clone the repo to where your simple shell program is
+
 there is two option to choose from: download and test
 
 1 - run the following command to download all the tests to your current directory where the ./hsh is.
